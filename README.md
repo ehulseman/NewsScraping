@@ -1,0 +1,2 @@
+# NewsScraping
+Scraped news application

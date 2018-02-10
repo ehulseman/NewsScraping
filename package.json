@@ -1,0 +1,28 @@
+{
+  "name": "newsscraping",
+  "version": "1.0.0",
+  "description": "news scraping app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehulseman/NewsScraping.git"
+  },
+  "author": "Elizah Hulseman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehulseman/NewsScraping/issues"
+  },
+  "homepage": "https://github.com/ehulseman/NewsScraping#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.0.3",
+    "morgan": "^1.9.0"
+  }
+}
